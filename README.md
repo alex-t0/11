@@ -4,7 +4,7 @@
 
 Всего 11 кружков для циферок и 11 стрелок, cоединяющих кружки:
 
-![alt картинка](https://raw.githubusercontent.com/alex-t0/11/commit/images/1.png)
+![alt картинка](https://raw.githubusercontent.com/alex-t0/11/8129152a6fe0db4ceb6f5f1b7b201f1f97c1cc5e/images/1.png)
 
 R(a,b) - минимально возможное расстояние между `а` и `b` по кругу (сколько минимально стрелочек от `a` до `b`). Тогда:
 
